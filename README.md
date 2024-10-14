@@ -62,7 +62,8 @@ Boost profitability by optimizing pricing strategies through metrics like RevPAR
 This project showcases Power BI skills essential for data visualization and business intelligence analysis.  
 For more content on Power BI and data analysis, connect with me through the following channels:
 
-- **LinkedIn**:[Viraj Lohakare](linkedin.com/in/viraj-lohakare-b15006321)
+- **LinkedIn**: https://www.linkedin.com/in/viraj-lohakare-b15006321/
+
 
 - **GitHub**: [github.com/viraj-lohakare](https://github.com/viraj-lohakare)
 - **Email**: viraj.data.expert@gmail.com
